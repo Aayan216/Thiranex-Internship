@@ -102,6 +102,7 @@ Through these internship projects, I gained practical experience in:
 **Thiranex Internship**  
 **Projects:** Data Analysis, Visualization, Business Intelligence & Machine Learning
 
+
 ## Author
 
 **Mohammed Aayan**  
